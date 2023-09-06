@@ -17,7 +17,6 @@ int main() {
     // %d is a placeholder for an integer, and it's replaced by the values of rows, columns, and totalElements.
     printf("int arr[%d][%d]; can hold a total of %d elements.\n", rows, columns, totalElements);
 
-    // Return 0 to indicate successful program execution.
     return 0;
 }
 //FZ
