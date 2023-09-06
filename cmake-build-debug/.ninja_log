@@ -1,3 +1,8 @@
 # ninja log v5
-0	108	1693997199210140127	CMakeFiles/practice_fzcode.dir/main.c.o	3c41a1ad386e25e4
-109	224	1693997199326296211	practice_fzcode	2aaa06ef33ef18c9
+1	92	1693997700755293297	CMakeFiles/practice_fzcode.dir/two-dimensional-array/two-dimensional-array.c.o	cb550bef6298e714
+1	106	1693998830487657780	practice_fzcode	2aaa06ef33ef18c9
+1	98	1693998802454205752	CMakeFiles/practice_fzcode.dir/main.c.o	3c41a1ad386e25e4
+0	88	1693999014126316667	build.ninja	452607819e11b4ed
+1	93	1693999014126316667	build.ninja	452607819e11b4ed
+1	85	1693999112126796345	CMakeFiles/two-dimensional-array.dir/two-dimensional-array/two-dimensional-array.c.o	3cb5792351c8cdec
+85	199	1693999112239786185	two-dimensional-array	cca67ae6ba779f33

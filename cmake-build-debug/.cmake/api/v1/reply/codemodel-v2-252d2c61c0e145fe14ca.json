@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "practice_fzcode",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "practice_fzcode::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-practice_fzcode-Debug-75512f9f926812fd82a2.json",
 					"name" : "practice_fzcode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "two-dimensional-array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-two-dimensional-array-Debug-0e1de4d97443f001abd2.json",
+					"name" : "two-dimensional-array",
 					"projectIndex" : 0
 				}
 			]
