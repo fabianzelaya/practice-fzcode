@@ -1,0 +1,3 @@
+/Users/fabianzelaya/iCloud Drive (Archive)/Desktop/GitHub_Projects/FZCODE-FALL2023/practice-fzcode/cmake-build-debug/CMakeFiles/practice_fzcode.dir
+/Users/fabianzelaya/iCloud Drive (Archive)/Desktop/GitHub_Projects/FZCODE-FALL2023/practice-fzcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fabianzelaya/iCloud Drive (Archive)/Desktop/GitHub_Projects/FZCODE-FALL2023/practice-fzcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir

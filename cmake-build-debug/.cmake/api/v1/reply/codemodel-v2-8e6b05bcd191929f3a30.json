@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "practice_fzcode",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "practice_fzcode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-practice_fzcode-Debug-75512f9f926812fd82a2.json",
+					"name" : "practice_fzcode",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/fabianzelaya/iCloud Drive (Archive)/Desktop/GitHub_Projects/FZCODE-FALL2023/practice-fzcode/cmake-build-debug",
+		"source" : "/Users/fabianzelaya/iCloud Drive (Archive)/Desktop/GitHub_Projects/FZCODE-FALL2023/practice-fzcode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
